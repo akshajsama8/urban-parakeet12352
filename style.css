@@ -1,0 +1,22 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(25, 163, 255);
+    color: rgb(25, 163, 255);
+}
+
+.heading_div{
+    float: none;
+    background: rgb(25, 163, 255);
+    padding: 10px;
+    border-radius: 20px;
+    color: rgb(238, 165, 6);
+    box-shadow: 5px 5px 5px rgb(238, 165, 6);
+}
+
+.heading_div2
+{
+    font-size: 18px;
+    color: rgb(25, 163, 255);
+}
